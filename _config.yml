@@ -1,0 +1,20 @@
+# Site settings
+title: Henrique Oliveira
+email: mail@henriqueoliveira.net
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.henriqueoliveira.org" # the base hostname & protocol for your site
+twitter_username: hjoliveira
+github_username:  hjoliveira
+linkedin_username: hjoliveira
+
+# Build settings
+markdown: kramdown
+
+#kramdown:
+#  input: GFM
+
+exclude:
+  - CNAME
+  - README
