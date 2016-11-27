@@ -117,12 +117,9 @@ Software Quality Assurance engineer. Quality assurance tasks for the Open Concur
 
 Programming Languages: Java, JavaScript, Objective-C, Swift.
 
-Web technologies:
-* Node, React
-* HTML5, CSS, JavaScript, jQuery and jQuery UI
-* Java Servlets and Java Server Pages, on Apache Tomcat
+Web technologies: HTML, JavaScript, CSS, Node, React, jQuery.
 
-Java frameworks: Spring, Dropwizard, Hibernate, Jersey, JAXB, JUnit, Mockito.
+Java frameworks: Spring, Dropwizard, Hibernate, Jersey, JUnit, Mockito.
 
 iOS frameworks: Core Foundation, UIKit, Grand Central Dispatch, Core Animation, Core Location.
 
