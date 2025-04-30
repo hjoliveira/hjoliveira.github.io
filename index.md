@@ -6,4 +6,4 @@ layout: default
 
  I used to live in Germany, where I developed software for institutions like the [European Space Agency](http://esa.int/) and [EUMETSAT](http://www.eumetsat.int/). [Past projects](/cv) include backend and web development, a bit of iOS development and [some dabbling in artificial intelligence](/publications).
 
- This website is built on [Jekyll](http://jekyllrb.com/), an awesome static website engine, and is hosted on [GitHub Pages](https://pages.github.com/).
+ This website is built on [Jekyll](http://jekyllrb.com/), and is hosted on [GitHub Pages](https://pages.github.com/).
