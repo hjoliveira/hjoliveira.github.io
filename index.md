@@ -1,5 +1,8 @@
 ---
-layout: default
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
 
  My name is Henrique Oliveira. I am a full stack software engineer based in London. My background is mostly in Java with a bit of JavaScript, but recently I've been diving deep into [Node](https://nodejs.org) and [React](https://facebook.github.io/react/).
