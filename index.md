@@ -5,4 +5,4 @@
 layout: home
 ---
 
- My name is Henrique Oliveira. I am a highly motivated and results driven Lead Software Engineer with 18 years of experience in software development. I keep up to date with the latest trends and technologies so I can lead my teams by example.
+ My name is Henrique Oliveira. I am a highly motivated and results-driven Lead Software Engineer with 18 years of experience in software development. I keep up to date with the latest trends and technologies so I can lead my teams by example.
