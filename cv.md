@@ -4,22 +4,25 @@ title: CV
 permalink: /cv/
 ---
 
-<h3 class="cv-header">Work Experience</h3>
+### Work Experience
 
-<h4 class="cv-header">October 2015 - Present</h4>
+#### October 2015 - Present
 
-**Position:** Senior Software Engineer
+**Position:** Software Engineering Lead
 
-Working on the SD Tech project, which is redeveloping [ScienceDirect](http://www.sciencedirect.com) on a new AWS-based technology stack. I was part of the Access and Entitlements team for 8 months and have since moved to the Search team.
+**Employer:** Elsevier, London, UK. Remotely in Germany since 2021.
 
-Responsibilities include the design and development of Java based microservices, using Dropwizard and Spring
-Boot, as well as front end pages with React and Node.
+Software Engineering Lead for the ScienceDirect Search and AI Core team. Responsibilities include planning and delivery management, stakeholder management, technical leadership and architecture, as well as the line management of a team of software and quality engineers of varying degrees of experience.
 
-**Employer:** Elsevier, London, United Kingdom
+Led the development of [ScienceDirect AI](https://www.elsevier.com/products/sciencedirect/sciencedirect-ai), launched publicly in March 2025. ScienceDirect AI is a generative AI product that employs AI Agents and Retrieval Augmented Generation to answer researcher questions.
 
-<h4 class="cv-header">April 2014 - September 2015</h4>
+Led the rearchitecture of the [ScienceDirect Search](https://www.sciencedirect.com/search) stack from a monolith to a modern microservices architecture on AWS. Included the migration of the search index from SOLR to AWS OpenSearch. This dramatically improved the performance, maintainability and observability of the system.
+
+#### April 2014 - September 2015
 
 **Position:** Lead Software Engineer
+
+**Employer:** Solenix Deutschland GmbH, Darmstadt, Germany
 
 Technical Lead for the MUST project. Software analysis, design, and coordination of the team developing MUST, an ESA information system for spacecraft telemetry analysis, based on a MySQL database, with client applications developed in Java.
 
@@ -31,11 +34,11 @@ Project Manager for the SSA P2-SWE-XI project. Management and coordination of th
 
 Other responsibilities include interviewing of candidates, tutoring of new hires and participation and coordination of several project bids.
 
-**Employer:** Solenix Deutschland GmbH, Darmstadt, Germany
-
-<h4 class="cv-header">November 2009 - March 2014</h4>
+#### November 2009 - March 2014
 
 **Position:** Software Engineer
+
+**Employer:** Solenix Deutschland GmbH c/o European Space Agency, Darmstadt, Germany
 
 Lead developer for the WebMUST project. Requirements analysis, design and development of a web application and framework for interactive plotting of spacecraft data. The WebMUST front-end was developed in HTML5, CSS and JavaScript with jQuery. The server side is based on Java Servlets and Server Pages. Other responsibilities included support to end users, and operations of the deployed system.
 
@@ -49,19 +52,19 @@ Software developer for the MUST project. Development of new modules and client a
 
 Software developer for the EO-RCP project. Development of a platform based on Eclipse RCP and uDig for visualisation of Earth Observation products.
 
-**Employer:** Solenix Deutschland GmbH c/o European Space Agency, Darmstadt, Germany
-
-<h4 class="cv-header">December 2007 - October 2009</h4>
+#### December 2007 - October 2009
 
 **Position:** Trainee
 
-Software development and validation support to the APSI, MUST and SEISOP projects.
-
 **Employer:** European Space Agency, Darmstadt, Germany
 
-<h4 class="cv-header">June 2006 - November 2007</h4>
+Software development and validation support to the APSI, MUST and SEISOP projects.
+
+#### June 2006 - November 2007
 
 **Position:** Software Engineer
+
+**Employer:** Critical Software, Lisbon, Portugal
 
 Project engineer for the Galileo SCPF project. Software design, development, validation and documentation of several Galileo SCPF components, using Eclipse RCP, MySQL and Hibernate.
 
@@ -69,41 +72,41 @@ Project engineer for the Command and Control Framework and Platform project. Dev
 
 Software Quality Assurance engineer. Quality assurance tasks for the Open Concurrent Design Server and Galileo SCCF-PEA projects.
 
-**Employer:** Critical Software, Lisbon, Portugal
 
-<h3 class="cv-header">Education and Training</h3>
+### Education and Training
 
-<h4 class="cv-header">2006 - 2007</h4>
+#### 2006 - 2007
 
 **Title:** Post-Graduation in Information Systems
 
 **Organisation:** Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, Portugal
 
-<h4 class="cv-header">2001 - 2006</h4>
+#### 2001 - 2006
 
 **Title:** 5 Year Degree in Computer Science Engineering
 
 **Organisation:** Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, Portugal
 
-<h4 class="cv-header">2012</h4>
+#### 2012
 
 **Title:** Introduction to Agile Software Development with SCRUM
 
 **Organisation:** European Space Operations Centre, Germany
 
-<h4 class="cv-header">2011</h4>
+#### 2011
 
 **Title:** Spacecraft Operations Course
 
 **Organisation:** Deutsches Zentrum für Luft- und Raumfahrt, Germany
 
-<h4 class="cv-header">1993 - 1999</h4>
+#### 1993 - 1999
 
 **Title:** Certificate of Proficiency in English
 
 **Organisation:** University of Cambridge
 
-<h3 class="cv-header">Languages</h3>
+
+### Languages
 
 **Portuguese:** Native Speaker
 
@@ -111,9 +114,10 @@ Software Quality Assurance engineer. Quality assurance tasks for the Open Concur
 
 **German:** Basic
 
-<h3 class="cv-header">Skills and Competences</h3>
 
-<h4 class="cv-header">Software Engineering</h4>
+### Skills and Competences
+
+#### Software Engineering
 
 Programming Languages: Java, JavaScript, Objective-C, Swift.
 
@@ -129,7 +133,7 @@ Development of applications using Eclipse RCP.
 
 Development of distributed software systems, using REST interfaces and Java RMI.
 
-Development of Geographical Information Systems with uDig, World Wind and Glob3mobile.
+Development of Geographical Information Systems with uDig, NASA WorldWind and Glob3mobile.
 
 Text and data mining, constraint-based solving systems, planning and scheduling techniques.
 
@@ -143,7 +147,7 @@ Integrated Development Environments: Eclipse, IntelliJ IDEA, Xcode.
 
 Analysis, architectural and detailed design of software systems with UML.
 
-<h4 class="cv-header">Management</h4>
+#### Management
 
 Task breakdown and planning.
 
@@ -160,3 +164,7 @@ Coordination of software development and maintenance teams.
 Interviewing and tutoring of new company hires.
 
 Coordination and participation in project bids.
+
+Line management.
+
+Mentoring and coaching.
